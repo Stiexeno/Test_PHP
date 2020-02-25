@@ -10,21 +10,9 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        background-color:black;
     }
 
-    div{
-        height: 500px;
-        width: 500px;
-        background-size:cover;
-    }
-
-    div{
-        height: 500px;
-        width: 500px;
-        background-size:cover;
-        background-color: black;
-        border-radius: 10px;
-    }
 </style>
 <head>
     <title>SPEED & POWER</title>
